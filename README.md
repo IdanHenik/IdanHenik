@@ -10,11 +10,10 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ihenik.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ihenik.com#gh-dark-mode-only)
+[![website](https://i.postimg.cc/W4ZhyQqH/globe-europe-detailed-bw.png)](https://ihenik.com)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/idanhenik#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/idanhenik#gh-dark-mode-only)
+[![website](https://i.postimg.cc/RFRV59SX/1-14803-instagram-icon-free-svg-transparent-instagram-icon-clipart.png)](https://instagram.com/idanhenik)
+
 
 
 ### Languages and Tools:
