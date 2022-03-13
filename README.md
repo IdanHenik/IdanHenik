@@ -1,10 +1,10 @@
-# Hey there ! I'm Idan Henik - aka [iHenik][instgram] 👋 
+# Hey there ! I'm Idan Henik - aka [iHenik][instagram] 👋 
 
 ## I'm 25 years old, live in israel and a junior DevOps Engineer.
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: investing myself in a DevOps position
-- ⚡ Hobbies: I love to workout,finance and research new technology
+- ⚡ Hobbies: Workout,finance and research new technology
 - 🔭 for more information about me: [website]
 
 
@@ -15,6 +15,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/idanhenik#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/idanhenik#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
@@ -33,9 +34,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="padding-right:10px;"/>]
 
 <br />
+<br />
 
-
----
 
 
 ---
