@@ -8,14 +8,6 @@
 - 🔭 for more information about me: [website]
 
 
-### Connect with me:
-
-[![website](https://i.postimg.cc/W4ZhyQqH/globe-europe-detailed-bw.png)](https://ihenik.com)
-&nbsp;&nbsp;
-[![website](https://i.postimg.cc/RFRV59SX/1-14803-instagram-icon-free-svg-transparent-instagram-icon-clipart.png)](https://instagram.com/idanhenik)
-
-
-
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;"/>
