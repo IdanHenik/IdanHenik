@@ -1,6 +1,6 @@
 # Hey there ! I'm Idan Henik - aka [iHenik][instagram] 👋 
 
-## I'm 25 years old, live in israel and a junior DevOps Engineer.
+## I'm 26 years old, live in israel and a junior DevOps Engineer.
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: investing myself in a DevOps position
